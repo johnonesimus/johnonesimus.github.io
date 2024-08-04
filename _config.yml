@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-PH"
+locale                   : "en-US"
 title                    : "John Onesimus"
 title_separator          : "-"
 name                     : &name "John Onesimus"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "John Onesimus Ancheta"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/him" 
   bio              : "I'm a Physics Major hoping to study the Fundamentals of Nature, either via Theoretical or Mathematical Physics."
   location         : "Philippines"
   employer         : "University of the Philippines Los Baños"
