@@ -22,13 +22,13 @@ repository               : "johnonesimus/johnonesimus.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "John Onesimus Ancheta"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A Physics student with the hopes of probing the fundamentals of Nature through Theoretical and Mathematical Physics"
+  location         : "Philippines"
+  employer         : "University of the Philippines Los Baños"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jgancheta@up.edu.ph" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
