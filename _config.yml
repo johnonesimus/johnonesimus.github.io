@@ -21,7 +21,7 @@ repository               : "johnonesimus/johnonesimus.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "PFP.jpg"
   name             : "John Onesimus Ancheta"
   pronouns         : # example: "she/her"  
   bio              : "A Physics major from the Philippines that wants to probe the fundamentals of nature through Theoretical and Mathematical Physics."
