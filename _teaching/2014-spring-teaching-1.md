@@ -1,20 +1,32 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
+Hi there, I will be publishing here every now and then my progress in learning the core mathematical and physics foundations. I am adamant on going back to the stuff I struggle to fix some holes and gaps. I believe that right now, I benefit the most from having a really solid mathematics. 
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+**Core Mathematics**
 ======
 
-Heading 2
+Mathematical Foundations 1 (Math Academy)
 ======
 
-Heading 3
+Mathematical Foundations 2 (Math Academy)
+======
+
+Mathematical Foundations 3 (Math Academy)
+======
+
+Single Variable Calculus
+======
+
+Multivariable Calculus
+======
+
+
+
+Methods of Proof
+======
+
+
+Linear Algebra
+======
+
+
+Differential Equations
 ======
