@@ -1,10 +1,13 @@
 # main links links
 main:
+  - title: "About 1Phys"
+    url: /1phys/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "1Phys Project"
-    url: /talks/    
+  - title: "Talks"
+    url: /taks/    
 
   - title: "Learning Progress"
     url: /teaching/    
